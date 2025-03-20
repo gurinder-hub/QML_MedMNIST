@@ -1,4 +1,4 @@
-![Alt Text]("C:\Users\singhg12\Desktop\image.png")
+![Alt Text](image.png)
 
 Dataset files: The MedMNIST datasets based files used for training and testing QML models are available at <https://zenodo.org/records/15058309>
 
